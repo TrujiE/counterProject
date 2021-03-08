@@ -14,7 +14,6 @@ class App extends React.Component{
     render(){
       return(
             <div className="container">
-              <h1>Inicial </h1>
               <Contenido />
             </div>
         );

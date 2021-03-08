@@ -19,7 +19,7 @@ const Contenido = () => {
 
 		return(
 			<div className="container">
-        <h1> Contenido </h1>
+        <h1> Contador </h1>
         <div className="contenido">
         <i className="far fa-clock"></i>
         <p className="informacion">
